@@ -1,4 +1,4 @@
-# Awesome-Lease-Accounting-Software
+# 🏢 Awesome-Lease-Accounting-Software
 
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome Lease Accounting Software Banner" width="100%">
@@ -6,13 +6,18 @@
 
 # 🏢 Awesome Lease Accounting Software & Open-Source Financial Engines
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![ASC 842 Compliant](https://img.shields.io/badge/Standard-ASC%20842-blue.svg)](https://fasb.org)
-[![IFRS 16 Compliant](https://img.shields.io/badge/Standard-IFRS%2016-green.svg)](https://ifrs.org)
-[![GASB 87 / 96 Compliant](https://img.shields.io/badge/Standard-GASB%2087%2F96-purple.svg)](https://gasb.org)
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-Ecosystem-blueviolet.svg" alt="Awesome Ecosystem"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+  <a href="https://fasb.org"><img src="https://img.shields.io/badge/Standard-ASC%20842-blue.svg" alt="ASC 842 Compliant"/></a>
+  <a href="https://ifrs.org"><img src="https://img.shields.io/badge/Standard-IFRS%2016-green.svg" alt="IFRS 16 Compliant"/></a>
+  <a href="https://gasb.org"><img src="https://img.shields.io/badge/Standard-GASB%2087%2F96-purple.svg" alt="GASB 87 / 96 Compliant"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-> A curated directory of **lease accounting software, lease administration platforms, real-estate management systems, and open-source financial ledgers** for automating **ASC 842, IFRS 16, GASB 87, and GASB 96** workflows.
+> 📚 A curated directory of **lease accounting software, lease administration platforms, real-estate management systems, and open-source financial ledgers** for automating **ASC 842, IFRS 16, GASB 87, and GASB 96** compliance workflows.
 
 Lease accounting software bridges **lease administration** and the **general ledger**, maintaining lease contract terms, payment schedules, Right-of-Use (ROU) assets, lease liabilities, amortization schedules, journal entries, disclosure reports, lease modifications, and audit trails.
 
@@ -33,6 +38,8 @@ This repository serves enterprise architects, financial controllers, CPAs, and s
 * [🏗️ Lease Accounting Architecture & Workflows](#️-lease-accounting-architecture--workflows)
 * [⚖️ Commercial vs Open-Source Comparison](#️-commercial-vs-open-source-comparison)
 * [🚀 Recommended Open-Source Stacks](#-recommended-open-source-stacks)
+* [💖 Support & Community](#-support--community)
+* [📈 Star History](#-star-history)
 * [🤝 Contributing](#-contributing)
 * [⚠️ Disclaimer](#️-disclaimer)
 
@@ -44,7 +51,7 @@ This repository serves enterprise architects, financial controllers, CPAs, and s
 
 Commercial lease accounting platforms combine real estate lease administration, automated accounting schedule calculations (ROU Asset & Lease Liability), audit trail tracking, disclosure reporting, and ERP integrations (SAP, Oracle, NetSuite, Workday).
 
-| Platform | Parent Company | Company Size (Revenue / Valuation) | Starting Pricing | Free Tier / Trial Limit | Primary Focus & Capabilities |
+| 🏢 Platform | 🏬 Parent Company | 📊 Company Size (Revenue / Valuation) | 💵 Starting Pricing | 🎁 Free Tier / Trial Limit | ⚡ Primary Focus & Capabilities |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | [IBM TRIRIGA](https://www.ibm.com/products/tririga) | IBM | **$62 Billion Rev** / $210B Market Cap | **$2,500/year** ($208/user/mo) | **30-day interactive demo sandbox** trial upon enterprise request | IWMS, facility management, ASC 842 & IFRS 16 lease accounting schedules, capital project tracking |
 | [CoStar Real Estate Manager](https://www.costar.com/) | CoStar Group | **$2.5 Billion Rev** / $30B Market Cap | **$12,000/year** | **14-day guided enterprise trial** & portfolio assessment workspace | Corporate real estate portfolio administration, complex lease modification accounting, rent roll analytics |
@@ -99,7 +106,7 @@ The open-source ecosystem provides powerful modular building blocks that can be 
 
 Dedicated open-source repositories designed for ASC 842 and IFRS 16 present value calculations, amortization schedules, and disclosure generation:
 
-| Repository | GitHub Stars Badge | Primary Focus / Standards |
+| 📦 Repository | 🏷️ GitHub Stars Badge | 🎯 Primary Focus / Standards |
 | :--- | :--- | :--- |
 | [OpenAccountants](https://github.com/openaccountants/openaccountants) | [![GitHub stars](https://img.shields.io/github/stars/openaccountants/openaccountants?style=social&color=white)](https://github.com/openaccountants/openaccountants/stargazers) | Open-source tax & accounting knowledge rules, ASC 842 / IFRS 16 compliance workflows |
 | [ERPClaw Lease Module](https://github.com/avansaber/erpclaw) | [![GitHub stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social&color=white)](https://github.com/avansaber/erpclaw/stargazers) | AI-native ERP engine with ASC 842 lease calculation & subledger capabilities |
@@ -115,7 +122,7 @@ Dedicated open-source repositories designed for ASC 842 and IFRS 16 present valu
 
 Operational platforms for managing tenant leases, property portfolios, and lease contracts:
 
-| Repository | GitHub Stars Badge | Description |
+| 📦 Repository | 🏷️ GitHub Stars Badge | 📝 Description |
 | :--- | :--- | :--- |
 | [Odoo Community](https://github.com/odoo/odoo) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Open-source enterprise apps including real estate asset & lease management modules |
 | [ERPNext](https://github.com/frappe/erpnext) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full ERP system with property management, asset depreciation, and general ledger |
@@ -131,7 +138,7 @@ Operational platforms for managing tenant leases, property portfolios, and lease
 
 Full-featured financial systems capable of consuming lease accounting journal entries and managing fixed asset subledgers:
 
-| Repository | GitHub Stars Badge | Accounting Capabilities | ASC 842 / IFRS 16 Integration |
+| 📦 Repository | 🏷️ GitHub Stars Badge | 📊 Accounting Capabilities | 🔗 ASC 842 / IFRS 16 Integration |
 | :--- | :--- | :--- | :--- |
 | [Odoo Community](https://github.com/odoo/odoo) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Full double-entry accounting, assets, AP/AR | Custom lease app module |
 | [ERPNext](https://github.com/frappe/erpnext) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Fixed assets, depreciation schedules, general ledger | Asset lease module integration |
@@ -146,7 +153,7 @@ Full-featured financial systems capable of consuming lease accounting journal en
 
 High-throughput, immutable ledgers ideal for storing lease liability balance histories and double-entry postings:
 
-| Repository | GitHub Stars Badge | Primary Role | Key Features |
+| 📦 Repository | 🏷️ GitHub Stars Badge | 🛠️ Primary Role | ✨ Key Features |
 | :--- | :--- | :--- | :--- |
 | [Apache Fineract](https://github.com/apache/fineract) | [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core banking & financial services engine | Amortization calculations, interest accruals, audit trails |
 | [Formance Ledger](https://github.com/formancehq/ledger) | [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable financial core ledger | Numscript language for complex multi-party lease journal postings |
@@ -158,7 +165,7 @@ High-throughput, immutable ledgers ideal for storing lease liability balance his
 
 Tools for parsing unstructured lease agreement PDFs/DOCX files into structured JSON for calculation engines:
 
-| Repository | GitHub Stars Badge | Category | Specialty |
+| 📦 Repository | 🏷️ GitHub Stars Badge | 📂 Category | 💡 Specialty |
 | :--- | :--- | :--- | :--- |
 | [Ollama](https://github.com/ollama/ollama) | [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Local LLM Runner | Local LLM execution (Llama 3, Qwen) for private lease extraction |
 | [LangChain](https://github.com/langchain-ai/langchain) | [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) | LLM Orchestration | RAG pipelines over long lease contract documents |
@@ -182,7 +189,7 @@ Tools for parsing unstructured lease agreement PDFs/DOCX files into structured J
 
 Mathematical and financial calculation libraries used to compute present value (PV), net present value (NPV), internal rate of return (IRR), and amortization:
 
-| Repository | GitHub Stars Badge | Language / Focus | Use Case in Lease Accounting |
+| 📦 Repository | 🏷️ GitHub Stars Badge | 💻 Language / Focus | 🎯 Use Case in Lease Accounting |
 | :--- | :--- | :--- | :--- |
 | [NumPy Financial](https://github.com/numpy/numpy-financial) | [![GitHub stars](https://img.shields.io/github/stars/numpy/numpy-financial?style=social&color=white)](https://github.com/numpy/numpy-financial/stargazers) | Python | Standard financial functions (`npf.pv`, `npf.pmt`, `npf.irr`, `npf.nper`) |
 | [QuantLib](https://github.com/quantlib/QuantLib) | [![GitHub stars](https://img.shields.io/github/stars/quantlib/QuantLib?style=social&color=white)](https://github.com/quantlib/QuantLib/stargazers) | C++ / Python | Complex interest rate curve discounting and financial math modeling |
@@ -229,7 +236,7 @@ Lease Contract Inputs
 
 # ⚖️ Commercial vs Open-Source Comparison
 
-| Feature Dimension | Commercial SaaS (e.g., LeaseQuery, Visual Lease) | Open-Source Stack (e.g., ERPNext + Formance + Docling) |
+| 🔍 Feature Dimension | 🏢 Commercial SaaS (e.g., LeaseQuery, Visual Lease) | 🔓 Open-Source Stack (e.g., ERPNext + Formance + Docling) |
 | :--- | :--- | :--- |
 | **Deployment Speed** | Rapid turnkey cloud deployment | Requires architecture setup & self-hosting |
 | **Data Privacy** | SaaS multi-tenant cloud storage | 100% on-premises / private VPC control |
@@ -241,9 +248,26 @@ Lease Contract Inputs
 
 # 🚀 Recommended Open-Source Stacks
 
-1. **Python Compliance Stack:** `Docling` (Document OCR) + `NumPy-Financial` (PV Engine) + `OpenAccountants` (Rule Engine) + `FastAPI`
-2. **Enterprise ERP Stack:** `Frappe / ERPNext` + `Formance Ledger` (Immutable Journal Ledger) + `PostgreSQL`
-3. **AI-First Extraction Stack:** `Ollama` + `Instructor` (Pydantic Schema) + `Unstructured` + `Streamlit`
+1. **🐍 Python Compliance Stack:** `Docling` (Document OCR) + `NumPy-Financial` (PV Engine) + `OpenAccountants` (Rule Engine) + `FastAPI`
+2. **🏢 Enterprise ERP Stack:** `Frappe / ERPNext` + `Formance Ledger` (Immutable Journal Ledger) + `PostgreSQL`
+3. **🤖 AI-First Extraction Stack:** `Ollama` + `Instructor` (Pydantic Schema) + `Unstructured` + `Streamlit`
+
+---
+
+# 💖 Support & Community
+
+If you find this repository helpful for your lease accounting workflows, financial architecture research, or software development, please consider supporting the project:
+
+* 🌟 **Star this repository** to help other finance & tech professionals discover it.
+* 🍴 **Fork this repo** to contribute new open-source software tools, calculation engines, or SaaS pricing updates.
+* 📢 **Share this resource** with your network, engineering team, or accounting department.
+* ☕ **Buy me a coffee**: Support ongoing open-source maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Lease-Accounting-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Lease-Accounting-Software&type=date&legend=top-left)
 
 ---
 
@@ -251,11 +275,11 @@ Lease Contract Inputs
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/awesome-feature`)
-3. Commit your changes (`git commit -m 'Add awesome feature'`)
-4. Push to the branch (`git push origin feature/awesome-feature`)
-5. Open a Pull Request
+1. 🍴 Fork the repository
+2. 🌿 Create your feature branch (`git checkout -b feature/awesome-feature`)
+3. 💾 Commit your changes (`git commit -m 'Add awesome feature'`)
+4. 🚀 Push to the branch (`git push origin feature/awesome-feature`)
+5. 📬 Open a Pull Request
 
 ---
 
