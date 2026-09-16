@@ -106,15 +106,15 @@ The open-source ecosystem provides powerful modular building blocks that can be 
 
 Dedicated open-source repositories designed for ASC 842 and IFRS 16 present value calculations, amortization schedules, and disclosure generation:
 
-| 📦 Repository | 🏷️ GitHub Stars Badge | 🎯 Primary Focus / Standards |
+| 📦 Repository | 🏷️ GitHub_Stars_Badge | 🎯 Primary Focus / Standards |
 | :--- | :--- | :--- |
-| [OpenAccountants](https://github.com/openaccountants/openaccountants) | [![GitHub stars](https://img.shields.io/github/stars/openaccountants/openaccountants?style=social&color=white)](https://github.com/openaccountants/openaccountants/stargazers) | Open-source tax & accounting knowledge rules, ASC 842 / IFRS 16 compliance workflows |
-| [ERPClaw Lease Module](https://github.com/avansaber/erpclaw) | [![GitHub stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social&color=white)](https://github.com/avansaber/erpclaw/stargazers) | AI-native ERP engine with ASC 842 lease calculation & subledger capabilities |
-| [VP Real Estate](https://github.com/reggiechan74/vp-real-estate) | [![GitHub stars](https://img.shields.io/github/stars/reggiechan74/vp-real-estate?style=social&color=white)](https://github.com/reggiechan74/vp-real-estate/stargazers) | Real-estate portfolio analysis and IFRS 16 lease liability calculations |
-| [Kontor](https://github.com/replikativ/kontor) | [![GitHub stars](https://img.shields.io/github/stars/replikativ/kontor?style=social&color=white)](https://github.com/replikativ/kontor/stargazers) | Trans-national accounting kernel with IFRS 16 & ASC 842 module support |
-| [Easy-Books](https://github.com/bilalpiaic/Easy-Books) | [![GitHub stars](https://img.shields.io/github/stars/bilalpiaic/Easy-Books?style=social&color=white)](https://github.com/bilalpiaic/Easy-Books/stargazers) | IFRS 16 lease subledger schedules, ROU asset depreciation, and payment tracking |
-| [LeaseBook](https://github.com/jwh3times/LeaseBook) | [![GitHub stars](https://img.shields.io/github/stars/jwh3times/LeaseBook?style=social&color=white)](https://github.com/jwh3times/LeaseBook/stargazers) | Property management lease agreements, rent schedules, and trust accounting |
-| [Ledger Nexus](https://github.com/ledger-nexus/ledger-core) | [![GitHub stars](https://img.shields.io/github/stars/ledger-nexus/ledger-core?style=social&color=white)](https://github.com/ledger-nexus/ledger-core/stargazers) | Multi-book general ledger with an integrated ASC 842 lease subledger module |
+| [OpenAccountants](https://github.com/openaccountants/openaccountants) | [![GitHub_Stars](https://img.shields.io/github/stars/openaccountants/openaccountants?style=social&color=white)](https://github.com/openaccountants/openaccountants/stargazers) | Open-source tax & accounting knowledge rules, ASC 842 / IFRS 16 compliance workflows |
+| [ERPClaw Lease Module](https://github.com/avansaber/erpclaw) | [![GitHub_Stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social&color=white)](https://github.com/avansaber/erpclaw/stargazers) | AI-native ERP engine with ASC 842 lease calculation & subledger capabilities |
+| [VP Real Estate](https://github.com/reggiechan74/vp-real-estate) | [![GitHub_Stars](https://img.shields.io/github/stars/reggiechan74/vp-real-estate?style=social&color=white)](https://github.com/reggiechan74/vp-real-estate/stargazers) | Real-estate portfolio analysis and IFRS 16 lease liability calculations |
+| [Kontor](https://github.com/replikativ/kontor) | [![GitHub_Stars](https://img.shields.io/github/stars/replikativ/kontor?style=social&color=white)](https://github.com/replikativ/kontor/stargazers) | Trans-national accounting kernel with IFRS 16 & ASC 842 module support |
+| [Easy-Books](https://github.com/bilalpiaic/Easy-Books) | [![GitHub_Stars](https://img.shields.io/github/stars/bilalpiaic/Easy-Books?style=social&color=white)](https://github.com/bilalpiaic/Easy-Books/stargazers) | IFRS 16 lease subledger schedules, ROU asset depreciation, and payment tracking |
+| [LeaseBook](https://github.com/jwh3times/LeaseBook) | [![GitHub_Stars](https://img.shields.io/github/stars/jwh3times/LeaseBook?style=social&color=white)](https://github.com/jwh3times/LeaseBook/stargazers) | Property management lease agreements, rent schedules, and trust accounting |
+| [Ledger Nexus](https://github.com/ledger-nexus/ledger-core) | [![GitHub_Stars](https://img.shields.io/github/stars/ledger-nexus/ledger-core?style=social&color=white)](https://github.com/ledger-nexus/ledger-core/stargazers) | Multi-book general ledger with an integrated ASC 842 lease subledger module |
 
 ---
 
@@ -122,15 +122,15 @@ Dedicated open-source repositories designed for ASC 842 and IFRS 16 present valu
 
 Operational platforms for managing tenant leases, property portfolios, and lease contracts:
 
-| 📦 Repository | 🏷️ GitHub Stars Badge | 📝 Description |
+| 📦 Repository | 🏷️ GitHub_Stars_Badge | 📝 Description |
 | :--- | :--- | :--- |
-| [Odoo Community](https://github.com/odoo/odoo) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Open-source enterprise apps including real estate asset & lease management modules |
-| [ERPNext](https://github.com/frappe/erpnext) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full ERP system with property management, asset depreciation, and general ledger |
-| [Frappe Framework](https://github.com/frappe/frappe) | [![GitHub stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers) | Low-code web framework underlying ERPNext for building custom lease portals |
-| [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | [![GitHub stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Recurring billing, rent collection, and customer invoice management |
-| [Kill Bill](https://github.com/killbill/killbill) | [![GitHub stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Open-source subscription billing & payment platform for recurring lease invoices |
-| [Frappe Lending](https://github.com/frappe/lending) | [![GitHub stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers) | Loan and financial contract lifecycle management for complex lease schedules |
-| [LeaseBook](https://github.com/jwh3times/LeaseBook) | [![GitHub stars](https://img.shields.io/github/stars/jwh3times/LeaseBook?style=social&color=white)](https://github.com/jwh3times/LeaseBook/stargazers) | Open-source property management platform for residential and commercial leases |
+| [Odoo Community](https://github.com/odoo/odoo) | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Open-source enterprise apps including real estate asset & lease management modules |
+| [ERPNext](https://github.com/frappe/erpnext) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Full ERP system with property management, asset depreciation, and general ledger |
+| [Frappe Framework](https://github.com/frappe/frappe) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/frappe?style=social&color=white)](https://github.com/frappe/frappe/stargazers) | Low-code web framework underlying ERPNext for building custom lease portals |
+| [Invoice Ninja](https://github.com/invoiceninja/invoiceninja) | [![GitHub_Stars](https://img.shields.io/github/stars/invoiceninja/invoiceninja?style=social&color=white)](https://github.com/invoiceninja/invoiceninja/stargazers) | Recurring billing, rent collection, and customer invoice management |
+| [Kill Bill](https://github.com/killbill/killbill) | [![GitHub_Stars](https://img.shields.io/github/stars/killbill/killbill?style=social&color=white)](https://github.com/killbill/killbill/stargazers) | Open-source subscription billing & payment platform for recurring lease invoices |
+| [Frappe Lending](https://github.com/frappe/lending) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/lending?style=social&color=white)](https://github.com/frappe/lending/stargazers) | Loan and financial contract lifecycle management for complex lease schedules |
+| [LeaseBook](https://github.com/jwh3times/LeaseBook) | [![GitHub_Stars](https://img.shields.io/github/stars/jwh3times/LeaseBook?style=social&color=white)](https://github.com/jwh3times/LeaseBook/stargazers) | Open-source property management platform for residential and commercial leases |
 
 ---
 
@@ -138,14 +138,14 @@ Operational platforms for managing tenant leases, property portfolios, and lease
 
 Full-featured financial systems capable of consuming lease accounting journal entries and managing fixed asset subledgers:
 
-| 📦 Repository | 🏷️ GitHub Stars Badge | 📊 Accounting Capabilities | 🔗 ASC 842 / IFRS 16 Integration |
+| 📦 Repository | 🏷️ GitHub_Stars_Badge | 📊 Accounting Capabilities | 🔗 ASC 842 / IFRS 16 Integration |
 | :--- | :--- | :--- | :--- |
-| [Odoo Community](https://github.com/odoo/odoo) | [![GitHub stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Full double-entry accounting, assets, AP/AR | Custom lease app module |
-| [ERPNext](https://github.com/frappe/erpnext) | [![GitHub stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Fixed assets, depreciation schedules, general ledger | Asset lease module integration |
-| [Firefly III](https://github.com/firefly-iii/firefly-iii) | [![GitHub stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | Double-entry transaction engine & budget tracking | Financial transaction auditing |
-| [Apache Fineract](https://github.com/apache/fineract) | [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Portfolio ledger, loan & lease schedule calculation | Custom financial integration |
-| [ERPClaw](https://github.com/avansaber/erpclaw) | [![GitHub stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social&color=white)](https://github.com/avansaber/erpclaw/stargazers) | Double-entry GL, multi-company subledger | Built-in ASC 842 lease schedules |
-| [Easy-Books](https://github.com/bilalpiaic/Easy-Books) | [![GitHub stars](https://img.shields.io/github/stars/bilalpiaic/Easy-Books?style=social&color=white)](https://github.com/bilalpiaic/Easy-Books/stargazers) | Multi-tenant bookkeeping for small businesses | IFRS 16 lease schedule support |
+| [Odoo Community](https://github.com/odoo/odoo) | [![GitHub_Stars](https://img.shields.io/github/stars/odoo/odoo?style=social&color=white)](https://github.com/odoo/odoo/stargazers) | Full double-entry accounting, assets, AP/AR | Custom lease app module |
+| [ERPNext](https://github.com/frappe/erpnext) | [![GitHub_Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) | Fixed assets, depreciation schedules, general ledger | Asset lease module integration |
+| [Firefly III](https://github.com/firefly-iii/firefly-iii) | [![GitHub_Stars](https://img.shields.io/github/stars/firefly-iii/firefly-iii?style=social&color=white)](https://github.com/firefly-iii/firefly-iii/stargazers) | Double-entry transaction engine & budget tracking | Financial transaction auditing |
+| [Apache Fineract](https://github.com/apache/fineract) | [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Portfolio ledger, loan & lease schedule calculation | Custom financial integration |
+| [ERPClaw](https://github.com/avansaber/erpclaw) | [![GitHub_Stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social&color=white)](https://github.com/avansaber/erpclaw/stargazers) | Double-entry GL, multi-company subledger | Built-in ASC 842 lease schedules |
+| [Easy-Books](https://github.com/bilalpiaic/Easy-Books) | [![GitHub_Stars](https://img.shields.io/github/stars/bilalpiaic/Easy-Books?style=social&color=white)](https://github.com/bilalpiaic/Easy-Books/stargazers) | Multi-tenant bookkeeping for small businesses | IFRS 16 lease schedule support |
 
 ---
 
@@ -153,11 +153,11 @@ Full-featured financial systems capable of consuming lease accounting journal en
 
 High-throughput, immutable ledgers ideal for storing lease liability balance histories and double-entry postings:
 
-| 📦 Repository | 🏷️ GitHub Stars Badge | 🛠️ Primary Role | ✨ Key Features |
+| 📦 Repository | 🏷️ GitHub_Stars_Badge | 🛠️ Primary Role | ✨ Key Features |
 | :--- | :--- | :--- | :--- |
-| [Apache Fineract](https://github.com/apache/fineract) | [![GitHub stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core banking & financial services engine | Amortization calculations, interest accruals, audit trails |
-| [Formance Ledger](https://github.com/formancehq/ledger) | [![GitHub stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable financial core ledger | Numscript language for complex multi-party lease journal postings |
-| [Ledger Nexus](https://github.com/ledger-nexus/ledger-core) | [![GitHub stars](https://img.shields.io/github/stars/ledger-nexus/ledger-core?style=social&color=white)](https://github.com/ledger-nexus/ledger-core/stargazers) | Multi-book accounting subledger | Native ASC 842 present value and liability reduction rules |
+| [Apache Fineract](https://github.com/apache/fineract) | [![GitHub_Stars](https://img.shields.io/github/stars/apache/fineract?style=social&color=white)](https://github.com/apache/fineract/stargazers) | Core banking & financial services engine | Amortization calculations, interest accruals, audit trails |
+| [Formance Ledger](https://github.com/formancehq/ledger) | [![GitHub_Stars](https://img.shields.io/github/stars/formancehq/ledger?style=social&color=white)](https://github.com/formancehq/ledger/stargazers) | Programmable financial core ledger | Numscript language for complex multi-party lease journal postings |
+| [Ledger Nexus](https://github.com/ledger-nexus/ledger-core) | [![GitHub_Stars](https://img.shields.io/github/stars/ledger-nexus/ledger-core?style=social&color=white)](https://github.com/ledger-nexus/ledger-core/stargazers) | Multi-book accounting subledger | Native ASC 842 present value and liability reduction rules |
 
 ---
 
@@ -165,23 +165,23 @@ High-throughput, immutable ledgers ideal for storing lease liability balance his
 
 Tools for parsing unstructured lease agreement PDFs/DOCX files into structured JSON for calculation engines:
 
-| 📦 Repository | 🏷️ GitHub Stars Badge | 📂 Category | 💡 Specialty |
+| 📦 Repository | 🏷️ GitHub_Stars_Badge | 📂 Category | 💡 Specialty |
 | :--- | :--- | :--- | :--- |
-| [Ollama](https://github.com/ollama/ollama) | [![GitHub stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Local LLM Runner | Local LLM execution (Llama 3, Qwen) for private lease extraction |
-| [LangChain](https://github.com/langchain-ai/langchain) | [![GitHub stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) | LLM Orchestration | RAG pipelines over long lease contract documents |
-| [vLLM](https://github.com/vllm-project/vllm) | [![GitHub stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) | High-throughput LLM | Batch processing thousands of lease PDF contracts |
-| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | [![GitHub stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) | OCR & Document AI | Multilingual table & text extraction from scanned lease agreements |
-| [MinerU](https://github.com/opendatalab/MinerU) | [![GitHub stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers) | PDF Document Extraction | Extracting complex lease table structures to Markdown |
-| [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) | [![GitHub stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers) | Optical Character Recognition | Standard OCR engine for text recognition |
-| [Docling](https://github.com/docling-project/docling) | [![GitHub stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers) | Document Parsing | Structural parsing of lease contracts into clean JSON schemas |
-| [Marker](https://github.com/datalab-to/marker) | [![GitHub stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) | PDF Parsing | Converts PDF lease agreements to clean Markdown |
-| [DSPy](https://github.com/stanfordnlp/dspy) | [![GitHub stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers) | Programmatic Prompting | Optimizing lease field extraction prompts automatically |
-| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | [![GitHub stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers) | PDF Tooling | Adds searchable OCR layers to scanned lease PDF files |
-| [Surya](https://github.com/datalab-to/surya) | [![GitHub stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers) | OCR & Layout Analysis | Layout detection and text line extraction |
-| [Outlines](https://github.com/dottxt-ai/outlines) | [![GitHub stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social&color=white)](https://github.com/dottxt-ai/outlines/stargazers) | Structured Generation | Guarantees strict JSON output formatting from LLMs |
-| [Unstructured](https://github.com/Unstructured-IO/unstructured) | [![GitHub stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) | Data Ingestion | Ingesting PDF, DOCX, and scanned images for AI pipelines |
-| [Instructor](https://github.com/567-labs/instructor) | [![GitHub stars](https://img.shields.io/github/stars/567-labs/instructor?style=social&color=white)](https://github.com/567-labs/instructor/stargazers) | Pydantic LLM Output | Extracting validated Pydantic structures from lease texts |
-| [LayoutParser](https://github.com/Layout-Parser/layout-parser) | [![GitHub stars](https://img.shields.io/github/stars/Layout-Parser/layout-parser?style=social&color=white)](https://github.com/Layout-Parser/layout-parser/stargazers) | Document Layout Detection | Deep-learning visual layout parsing for PDF documents |
+| [Ollama](https://github.com/ollama/ollama) | [![GitHub_Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Local LLM Runner | Local LLM execution (Llama 3, Qwen) for private lease extraction |
+| [LangChain](https://github.com/langchain-ai/langchain) | [![GitHub_Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=social&color=white)](https://github.com/langchain-ai/langchain/stargazers) | LLM Orchestration | RAG pipelines over long lease contract documents |
+| [vLLM](https://github.com/vllm-project/vllm) | [![GitHub_Stars](https://img.shields.io/github/stars/vllm-project/vllm?style=social&color=white)](https://github.com/vllm-project/vllm/stargazers) | High-throughput LLM | Batch processing thousands of lease PDF contracts |
+| [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) | [![GitHub_Stars](https://img.shields.io/github/stars/PaddlePaddle/PaddleOCR?style=social&color=white)](https://github.com/PaddlePaddle/PaddleOCR/stargazers) | OCR & Document AI | Multilingual table & text extraction from scanned lease agreements |
+| [MinerU](https://github.com/opendatalab/MinerU) | [![GitHub_Stars](https://img.shields.io/github/stars/opendatalab/MinerU?style=social&color=white)](https://github.com/opendatalab/MinerU/stargazers) | PDF Document Extraction | Extracting complex lease table structures to Markdown |
+| [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) | [![GitHub_Stars](https://img.shields.io/github/stars/tesseract-ocr/tesseract?style=social&color=white)](https://github.com/tesseract-ocr/tesseract/stargazers) | Optical Character Recognition | Standard OCR engine for text recognition |
+| [Docling](https://github.com/docling-project/docling) | [![GitHub_Stars](https://img.shields.io/github/stars/docling-project/docling?style=social&color=white)](https://github.com/docling-project/docling/stargazers) | Document Parsing | Structural parsing of lease contracts into clean JSON schemas |
+| [Marker](https://github.com/datalab-to/marker) | [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/marker?style=social&color=white)](https://github.com/datalab-to/marker/stargazers) | PDF Parsing | Converts PDF lease agreements to clean Markdown |
+| [DSPy](https://github.com/stanfordnlp/dspy) | [![GitHub_Stars](https://img.shields.io/github/stars/stanfordnlp/dspy?style=social&color=white)](https://github.com/stanfordnlp/dspy/stargazers) | Programmatic Prompting | Optimizing lease field extraction prompts automatically |
+| [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) | [![GitHub_Stars](https://img.shields.io/github/stars/ocrmypdf/OCRmyPDF?style=social&color=white)](https://github.com/ocrmypdf/OCRmyPDF/stargazers) | PDF Tooling | Adds searchable OCR layers to scanned lease PDF files |
+| [Surya](https://github.com/datalab-to/surya) | [![GitHub_Stars](https://img.shields.io/github/stars/datalab-to/surya?style=social&color=white)](https://github.com/datalab-to/surya/stargazers) | OCR & Layout Analysis | Layout detection and text line extraction |
+| [Outlines](https://github.com/dottxt-ai/outlines) | [![GitHub_Stars](https://img.shields.io/github/stars/dottxt-ai/outlines?style=social&color=white)](https://github.com/dottxt-ai/outlines/stargazers) | Structured Generation | Guarantees strict JSON output formatting from LLMs |
+| [Unstructured](https://github.com/Unstructured-IO/unstructured) | [![GitHub_Stars](https://img.shields.io/github/stars/Unstructured-IO/unstructured?style=social&color=white)](https://github.com/Unstructured-IO/unstructured/stargazers) | Data Ingestion | Ingesting PDF, DOCX, and scanned images for AI pipelines |
+| [Instructor](https://github.com/567-labs/instructor) | [![GitHub_Stars](https://img.shields.io/github/stars/567-labs/instructor?style=social&color=white)](https://github.com/567-labs/instructor/stargazers) | Pydantic LLM Output | Extracting validated Pydantic structures from lease texts |
+| [LayoutParser](https://github.com/Layout-Parser/layout-parser) | [![GitHub_Stars](https://img.shields.io/github/stars/Layout-Parser/layout-parser?style=social&color=white)](https://github.com/Layout-Parser/layout-parser/stargazers) | Document Layout Detection | Deep-learning visual layout parsing for PDF documents |
 
 ---
 
@@ -189,10 +189,10 @@ Tools for parsing unstructured lease agreement PDFs/DOCX files into structured J
 
 Mathematical and financial calculation libraries used to compute present value (PV), net present value (NPV), internal rate of return (IRR), and amortization:
 
-| 📦 Repository | 🏷️ GitHub Stars Badge | 💻 Language / Focus | 🎯 Use Case in Lease Accounting |
+| 📦 Repository | 🏷️ GitHub_Stars_Badge | 💻 Language / Focus | 🎯 Use Case in Lease Accounting |
 | :--- | :--- | :--- | :--- |
-| [NumPy Financial](https://github.com/numpy/numpy-financial) | [![GitHub stars](https://img.shields.io/github/stars/numpy/numpy-financial?style=social&color=white)](https://github.com/numpy/numpy-financial/stargazers) | Python | Standard financial functions (`npf.pv`, `npf.pmt`, `npf.irr`, `npf.nper`) |
-| [QuantLib](https://github.com/quantlib/QuantLib) | [![GitHub stars](https://img.shields.io/github/stars/quantlib/QuantLib?style=social&color=white)](https://github.com/quantlib/QuantLib/stargazers) | C++ / Python | Complex interest rate curve discounting and financial math modeling |
+| [NumPy Financial](https://github.com/numpy/numpy-financial) | [![GitHub_Stars](https://img.shields.io/github/stars/numpy/numpy-financial?style=social&color=white)](https://github.com/numpy/numpy-financial/stargazers) | Python | Standard financial functions (`npf.pv`, `npf.pmt`, `npf.irr`, `npf.nper`) |
+| [QuantLib](https://github.com/quantlib/QuantLib) | [![GitHub_Stars](https://img.shields.io/github/stars/quantlib/QuantLib?style=social&color=white)](https://github.com/quantlib/QuantLib/stargazers) | C++ / Python | Complex interest rate curve discounting and financial math modeling |
 
 ---
 
